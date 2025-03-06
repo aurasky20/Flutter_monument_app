@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:monument_app/detail_screen.dart';
-import 'package:monument_app/main.dart';
 import 'package:monument_app/model/tourism_place.dart';
 
 class MainScreen extends StatelessWidget {
